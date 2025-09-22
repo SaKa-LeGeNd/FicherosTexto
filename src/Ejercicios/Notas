@@ -1,0 +1,9 @@
+Ejercicio propuesto A.1: Crea un programa que pida frases al usuario y las guarde en un fichero de texto, cada frase en una línea.
+
+Ejercicio propuesto A.2: Crea un programa que pida al usuario el nombre de un fichero de texto y muestre todo su contenido en pantalla. Tras cada 24 líneas, deberá hacer una pausa hasta que el usuario pulse Intro.
+
+Ejercicio propuesto A.3: Crea un programa que pida al usuario el nombre de un fichero de texto y muestre en pantalla la cantidad de líneas de texto que contiene.
+
+Ejercicio propuesto A.4: Crea un programa que pida al usuario el nombre de un fichero de texto, cuente cuántas líneas contiene, cree un array y guarde todas ellas, para luego mostrarlas en pantalla en orden contrario (de la última a la primera).
+
+Ejercicio propuesto A.5: Crea un programa que pida al usuario el nombre de un fichero de texto, guarde todas sus líneas en un array y las vuelque a un nuevo fichero llamado "salida.txt", en orden contrario (de la última a la primera).
