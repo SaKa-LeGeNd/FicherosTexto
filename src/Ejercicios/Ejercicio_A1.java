@@ -14,7 +14,7 @@ public class Ejercicio_A1 {
 
         System.out.println("Ejercicio A1 - Hecho por Rubén del Pino Castellanos");
 
-        File ficherosTexto = new File("C:\\Users\\RubéndelPinoC\\Desktop\\Acceso a datos\\Trimestre I\\FicherosTexto\\FicherosTexto\\Ejercicio_A1.txt");
+        File ficherosTexto = new File("src/Ejercicios/Archivo.txt");
 
         Scanner leer = new Scanner(System.in);
 
